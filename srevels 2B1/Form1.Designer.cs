@@ -86,7 +86,7 @@
             // 
             // btnReset
             // 
-            this.btnReset.Location = new System.Drawing.Point(233, 228);
+            this.btnReset.Location = new System.Drawing.Point(233, 261);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(154, 23);
             this.btnReset.TabIndex = 2;
@@ -252,7 +252,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(393, 228);
+            this.btnExit.Location = new System.Drawing.Point(476, 261);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(154, 23);
             this.btnExit.TabIndex = 20;
