@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2a1", "srevels 2a\sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2b1", "srevels 2B1\srevels2b1.csproj", "{3730C8D0-3940-4858-B1EF-27A772449928}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2c1", "srevels2c1\srevels2c1.csproj", "{5DC2ECE2-42C5-4B7A-BF75-9DBAF2BF726F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3730C8D0-3940-4858-B1EF-27A772449928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3730C8D0-3940-4858-B1EF-27A772449928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3730C8D0-3940-4858-B1EF-27A772449928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC2ECE2-42C5-4B7A-BF75-9DBAF2BF726F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC2ECE2-42C5-4B7A-BF75-9DBAF2BF726F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC2ECE2-42C5-4B7A-BF75-9DBAF2BF726F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC2ECE2-42C5-4B7A-BF75-9DBAF2BF726F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
