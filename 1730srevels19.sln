@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2c1", "srevels2c1\sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2d1", "srevels2d1\srevels2d1.csproj", "{1BAFADCC-8070-4031-8389-09059DB95328}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2e1", "srevels2e1\srevels2e1.csproj", "{D92F4C87-0C44-4978-AD00-365B2937E126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1BAFADCC-8070-4031-8389-09059DB95328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BAFADCC-8070-4031-8389-09059DB95328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BAFADCC-8070-4031-8389-09059DB95328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92F4C87-0C44-4978-AD00-365B2937E126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92F4C87-0C44-4978-AD00-365B2937E126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92F4C87-0C44-4978-AD00-365B2937E126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92F4C87-0C44-4978-AD00-365B2937E126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
