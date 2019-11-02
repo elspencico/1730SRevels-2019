@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2d1", "srevels2d1\sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2e1", "srevels2e1\srevels2e1.csproj", "{D92F4C87-0C44-4978-AD00-365B2937E126}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels2f1", "srevels 2f1\srevels2f1.csproj", "{30F6CA91-7E0F-42B5-A730-9D3B5389AAF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevel2f1UnitTest", "srevelf2UnitTest\srevel2f1UnitTest.csproj", "{52CDA15B-DD4D-4E65-BC8A-9A08258E8AA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{D92F4C87-0C44-4978-AD00-365B2937E126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D92F4C87-0C44-4978-AD00-365B2937E126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D92F4C87-0C44-4978-AD00-365B2937E126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F6CA91-7E0F-42B5-A730-9D3B5389AAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F6CA91-7E0F-42B5-A730-9D3B5389AAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F6CA91-7E0F-42B5-A730-9D3B5389AAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F6CA91-7E0F-42B5-A730-9D3B5389AAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CDA15B-DD4D-4E65-BC8A-9A08258E8AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CDA15B-DD4D-4E65-BC8A-9A08258E8AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CDA15B-DD4D-4E65-BC8A-9A08258E8AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CDA15B-DD4D-4E65-BC8A-9A08258E8AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

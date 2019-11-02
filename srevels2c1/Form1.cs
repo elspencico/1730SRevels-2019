@@ -253,7 +253,7 @@ namespace srevels2c1
         {
             InitializeComponent();
         }
-
+        //nigger
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -281,6 +281,7 @@ namespace srevels2c1
 
         private void BtnMaximum_Click(object sender, EventArgs e)
         {
+            
             byte byte1, byte2, byte3;
             sbyte sbyte1, sbyte2, sbyte3;
             short short1, short2, short3;
